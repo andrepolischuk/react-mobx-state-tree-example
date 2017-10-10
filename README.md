@@ -32,6 +32,7 @@ npm run build
 
 * [x] [React](https://github.com/facebook/react)
 * [x] [MobX state tree](https://github.com/mobxjs/mobx-state-tree)
+* [x] [MobX logger](https://github.com/winterbe/mobx-logger)
 * [x] [Webpack](https://github.com/webpack/webpack)
 * [x] [Babel](https://github.com/babel/babel)
 * [x] [CSS modules](https://github.com/css-modules/css-modules)

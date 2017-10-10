@@ -16,3 +16,7 @@ render(
   </Provider>,
   document.getElementById('root')
 )
+
+if (process.env.NODE_ENV !== 'production') {
+  require('mobx-logger').enableLogging()
+}
